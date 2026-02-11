@@ -1,5 +1,8 @@
 # Venttraffic Website
+<<<<<<< HEAD
 Built by Ndubuisi Chinemerem Ndubuisi.
+=======
+>>>>>>> e485327 (Update README.md)
 
 This is the source code for the **Venttraffic** website, featuring two main divisions:
 
