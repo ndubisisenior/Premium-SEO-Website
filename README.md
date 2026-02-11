@@ -4,6 +4,8 @@ Built by Ndubuisi Chinemerem Ndubuisi.
 =======
 >>>>>>> e485327 (Update README.md)
 
+Built by Ndubuisi Chinemerem Ndubuisi.
+
 This is the source code for the **Venttraffic** website, featuring two main divisions:
 
 1.  **Venttraffic Media**: A performance marketing agency.
